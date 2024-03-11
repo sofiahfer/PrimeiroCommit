@@ -1,7 +1,7 @@
 # PrimeiroCommit
 Testando o github pela primeira vez 
 <br>
-<h2 align="center"> Pesquisa dos comandos GIT 🔍</h2>
+<h2 align="center"> 📁Pesquisa dos comandos GIT 🔍</h2>
 <br> 
 
 - `Git init`: Serve para criar um novo repositório.
